@@ -1,4 +1,6 @@
-<?php namespace Priskz\SORAD\ServiceProvider\Laravel;
+<?php
+
+namespace Priskz\SORAD\ServiceProvider\Laravel;
 
 use Config;
 use Illuminate\Support\ServiceProvider;
