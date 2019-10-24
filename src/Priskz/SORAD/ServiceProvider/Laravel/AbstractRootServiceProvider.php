@@ -14,7 +14,7 @@ abstract class AbstractRootServiceProvider extends AbstractServiceProvider
 
 	/**
 	 * @OVERRIDE
-	 * 
+	 *
 	 * Register.
 	 *
 	 * @return void
